@@ -1,0 +1,2 @@
+# Analyzing-Historical-Stock-Revenue-Data-and-Building-a-Dashboard
+A Data Analyst working for a startup investment firm that helps customers make informed decisions about investing in stocks. Extract financial data, such as historical stock prices and quarterly revenue from multiple sources using Python libraries and web scraping techniques then visualize this data in a dashboard to identify patterns and trends.
